@@ -1,10 +1,10 @@
 # Cristian | Junior Full-Stack Developer
 
-Desarrollador, TSU en informatica , full-stack junior con bases sólidas en JavaScript/TypeScript y muchas ganas de seguir aprendiendo. Me gusta construir soluciones claras, apoyarme en buenas prácticas y trabajar en equipos donde el feedback es parte del día a día.
+Desarrollador, TSU en informatica , full-stack junior con bases sólidas en JavaScript, TypeScript, Python y con muchas ganas de seguir aprendiendo. Me gusta construir soluciones claras, apoyarme en buenas prácticas y trabajar en equipos donde el feedback es parte del día a día.
 
 ## 🧰 Tech Stack principal
 - **Frontend:** `React`, `Next.js`, `Remix`
-- **Backend:** `Node.js`, `Express`, primeros proyectos en `Go` y `Laravel`
+- **Backend:** `Node.js`, `Express`,`Python`, `Django`, primeros proyectos en `Go` y `Laravel`
 - **Bases de datos:** `PostgreSQL`, `MySQL`, `MongoDB`
 - **Herramientas:** `Git`, `GitLab` `Linux`, despliegues en VPS
 
